@@ -1,0 +1,9 @@
+{
+    "name": "flowery",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/kagescripts/wk-flowery-voicepack",
+    "description": "mysterious winds",
+    "dependancies": [
+        "MonkSilly-ResourcefulHands-1.0.0"
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "flowery-voiceclips",
+    "cosmeticName": "Flowery",
+    "author": "Kage",
+    "description": "Noone can outspeed a flower!",
+    "unlock": "",
+    "setOverrides": [
+        {
+            "groupName": "player",
+            "setName": "hurt",
+            "clips": [
+                "snd_flowery_voiceclip_theyre_eating_my_flesh",
+                "snd_flowery_voiceclip_what_a_predictable_creature",
+                "snd_flowery_voiceclip_get_a_chance_1",
+                "snd_flowery_voiceclip_try_my_flavor",
+                "snd_flowery_voiceclip_calling_for_help",
+                "snd_flowery_voiceclip_its_so_human"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "hurt-falling",
+            "clips": [
+                "snd_flowery_voiceclip_im_falling"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "hurt-heat",
+            "clips": [
+                "snd_flowery_voiceclip_suckle_it_up"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "cough",
+            "clips": [
+                "snd_flowery_voiceclip_wow",
+                "snd_flowery_voiceclip_sanfran",
+                "snd_flowery_voiceclip_it"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "death",
+            "clips": [
+                "snd_flowery_voiceclip_goodbye"
+            ]
+        },
+        {
+            "groupName": "player",
+            "setName": "death-splatter",
+            "clips": [
+                "splat"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "land-heavy",
+            "clips": [
+                "snd_flowery_voiceclip_sorryaboutthatguys",
+                "snd_flowery_voiceclip_nonono",
+                "snd_flowery_voiceclip_sorrytokeepyouwaiting1",
+                "snd_flowery_voiceclip_hereicomesanfrandisco_strong",
+                "snd_flowery_voiceclip_huhillshowyou"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "land-medium",
+            "clips": [
+                "snd_flowery_voiceclip_hereicome",
+                "snd_flowery_voiceclip_hereicomesanfrandisco_weak",
+                "snd_flowery_voiceclip_heyguys",
+                "snd_flowery_voiceclip_itsmeflowery",
+                "snd_flowery_voiceclip_itsme",
+                "snd_flowery_voiceclip_mysterious_wind"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "jump",
+            "clips": [
+                "snd_flowery_voiceclip_jarona1",
+                "snd_flowery_voiceclip_jarona2",
+                "snd_flowery_voiceclip_jarona3",
+                "snd_flowery_voiceclip_jarona4",
+                "snd_ja_kidding",
+                "snd_jarona_orange1",
+                "snd_jarona_orange2"
+            ]
+        },
+        {
+            "groupName": "movement",
+            "setName": "mantle",
+            "clips": [
+                "snd_flowery_voiceclip_hah",
+                "snd_flowery_voiceclip_hoo",
+                "snd_flowery_voiceclip_huh",
+                "snd_flowery_voiceclip_leaf_it_to_me",
+                "snd_forthefans"
+            ]
+        }
+    ]
+}
